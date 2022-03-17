@@ -1,11 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T00:25:28.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="dBt81lH0O3Ie9lX-aXpw" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T00:26:59.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="k8RDpnWMN15ta1wH0ImP" version="17.1.3" type="github">
   <diagram id="lCcjsu2HdgxvaBvsYxkH" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VAGSRv4LbogOku7EHdaU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAGSRv4LbogOku7EHdaU-1" target="VAGSRv4LbogOku7EHdaU-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="183" y="140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VAGSRv4LbogOku7EHdaU-1" value="INICIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="40" width="115" height="60" as="geometry" />
@@ -28,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VAGSRv4LbogOku7EHdaU-7" value="ESCOLHER 2 DOIS NÚMEROS PARA SOMAR" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="140" width="210" height="70" as="geometry" />
+          <mxGeometry x="77.5" y="150" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VAGSRv4LbogOku7EHdaU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VAGSRv4LbogOku7EHdaU-9" target="VAGSRv4LbogOku7EHdaU-5">
           <mxGeometry relative="1" as="geometry" />
